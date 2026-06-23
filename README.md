@@ -1,89 +1,108 @@
-# Hi, I'm Meher Sri Kartikeya 👋
+<h1 align="center">Hi 👋, I'm Kartikeya Kotha</h1>
+<h3 align="center">Full-Stack Developer | AI Software Engineer Aspirant | IEEE SB NIT Durgapur Web Developer</h3>
 
-<div align="center">
-
-🎓 Electrical Engineering @ NIT Durgapur
-
-💻 Web Developer @ IEEE Student Branch
-
-🤖 Full Stack Developer & AI Enthusiast
-
-</div>
+<p align="center">
+  Building scalable web applications, real-time platforms, and AI-powered solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electrical Engineering at NIT Durgapur
-- 💻 Web Developer at IEEE Student Branch
-- 🌱 Learning AI Engineering, Deep Learning, and Cloud Technologies
-- 🔥 Passionate about building impactful software products
-- ⚡ Solved Data Structures & Algorithms problems using Java
+🎓 B.Tech in Electrical Engineering at NIT Durgapur
+
+💻 Full-Stack Developer focused on modern web technologies
+
+🏢 Senior Coordinator & Full-Stack Web Developer at IEEE Student Branch, NIT Durgapur
+
+🤖 Passionate about AI, Machine Learning, and Intelligent Systems
+
+🌱 Currently learning System Design, Cloud Computing, and AI Engineering
+
+⚡ Turning ideas into production-ready applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![C++](https://img.shields.io/badge/C++-000?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-000?logo=mysql)
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask)
+![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+![Firestore](https://img.shields.io/badge/Firestore-000?logo=firebase)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000?logo=cloudinary)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🚀 HireFlash
-A worker hiring platform with real-time chat, authentication, and role-based dashboards.
+## 🚀 HireFlash
+A production-grade service marketplace connecting customers with local professionals through seamless booking workflows, secure authentication, role-based dashboards, and real-time communication.
 
-### 💻 Nexus Code Editor
-A browser-based code editor with syntax highlighting and Firebase integration.
+**Tech:** React • Node.js • MongoDB • Firebase • Stream Chat SDK
 
-### 🏢 IEEE Club Management System
-A centralized platform for managing members, events, and communications.
+---
 
-### 🔍 Missing Person Recovery Network
-AI-assisted platform for reporting and locating missing persons.
+## 🛒 Lucky Cart
+A secure multi-role e-commerce platform featuring advanced security mechanisms, bulk product management, automated workflows, and cloud-based media handling.
+
+**Tech:** Python • Flask • MongoDB • Cloudinary
+
+---
+
+## 📚 ClassPulse
+A Progressive Web Application that helps students manage schedules, attendance, and academic activities through real-time collaboration, analytics dashboards, and push notifications.
+
+**Tech:** React • Vite • Firebase • Chart.js
+
+---
+
+## 🌐 IEEE NVISION 3D Platform
+An immersive 3D web experience built using modern web graphics technologies, featuring interactive environments, smooth animations, and optimized rendering performance.
+
+**Tech:** React • Three.js • React Three Fiber • Tailwind CSS
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeya7609&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya7609&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya7609&layout=compact)
-
----
-
-## 🏆 Goals for 2026
-
-- Build production-grade AI applications
-- Contribute to Open Source
-- Master System Design
-- Land a Software Engineering Internship
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya7609&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 🧑‍💻 LeetCode: https://leetcode.com/YOUR_USERNAME
+- 📧 Email: kartikeyakk2007@gmail.com
+
+---
+
+<p align="center">
+  <b>Building technology that creates real-world impact 🚀</b>
+</p>
