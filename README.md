@@ -1,108 +1,98 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Kotha</h1>
-<h3 align="center">Full-Stack Developer | AI Software Engineer Aspirant | IEEE SB NIT Durgapur Web Developer</h3>
+<h3 align="center">Full-Stack Developer | AI Software Engineer Aspirant | Lead Web Developer @ IEEE SB NIT Durgapur</h3>
 
 <p align="center">
-  Building scalable web applications, real-time platforms, and AI-powered solutions.
+  <b>Engineering high-performance web applications, distributed systems, and intelligent AI-powered solutions.</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kartikeya-kotha-1627-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kartikeyakk2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Electrical Engineering at NIT Durgapur
-
-💻 Full-Stack Developer focused on modern web technologies
-
-🏢 Senior Coordinator & Full-Stack Web Developer at IEEE Student Branch, NIT Durgapur
-
-🤖 Passionate about AI, Machine Learning, and Intelligent Systems
-
-🌱 Currently learning System Design, Cloud Computing, and AI Engineering
-
-⚡ Turning ideas into production-ready applications
+- 🎓 **B.Tech in Electrical Engineering** at National Institute of Technology Durgapur.
+- 🏢 **Senior Coordinator & Full-Stack Web Developer** at IEEE Student Branch, NIT Durgapur.
+- 🤖 **AI & Systems Enthusiast**: Deeply passionate about Machine Learning, Intelligent Automation, and scalable System Design.
+- 🌱 **Current Focus**: Microservices Architecture, Cloud Infrastructure, and LLM Integration/AI Engineering.
+- ⚡ **Mission**: Transforming complex algorithmic concepts into robust, production-grade applications that scale.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![C++](https://img.shields.io/badge/C++-000?logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-000?logo=mysql)
+### 🧠 Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+### 🎨 Frontend Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask)
-![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
-![Firestore](https://img.shields.io/badge/Firestore-000?logo=firebase)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-000?logo=cloudinary)
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)
+### ⚙️ Backend, Cloud & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🚀 HireFlash
-A production-grade service marketplace connecting customers with local professionals through seamless booking workflows, secure authentication, role-based dashboards, and real-time communication.
+### 🚀 HireFlash | *On-Demand Service Marketplace*
+> A production-ready service ecosystem bridging consumers and professionals with interactive state management and real-time capability.
+- Engineered role-based secure workflows and complex user dashboard dynamics.
+- Integrated real-time communications infrastructure for low-latency client-professional chat.
+- **Tech Stack:** React, Node.js, MongoDB, Firebase, Stream Chat SDK
 
-**Tech:** React • Node.js • MongoDB • Firebase • Stream Chat SDK
+### 🌐 IEEE NVISION 3D Platform | *Immersive Graphics Experience*
+> A high-performance, interactive 3D web platform engineered to elevate event engagement.
+- Implemented responsive 3D asset rendering and customized WebGL shader transitions.
+- Optimized canvas rendering frame rates for flawless cross-device performance.
+- **Tech Stack:** React, Three.js, React Three Fiber, Tailwind CSS
 
----
+### 🛒 Lucky Cart | *Secure Multi-Role E-Commerce Infrastructure*
+> An enterprise-oriented multi-vendor platform prioritizing secure handling and operational throughput.
+- Implemented robust RBAC (Role-Based Access Control) mechanisms and automated order fulfillment pipelines.
+- Configured dynamic media pipelines ensuring scalable and optimized asset content delivery.
+- **Tech Stack:** Python, Flask, MongoDB, Cloudinary
 
-## 🛒 Lucky Cart
-A secure multi-role e-commerce platform featuring advanced security mechanisms, bulk product management, automated workflows, and cloud-based media handling.
-
-**Tech:** Python • Flask • MongoDB • Cloudinary
-
----
-
-## 📚 ClassPulse
-A Progressive Web Application that helps students manage schedules, attendance, and academic activities through real-time collaboration, analytics dashboards, and push notifications.
-
-**Tech:** React • Vite • Firebase • Chart.js
-
----
-
-## 🌐 IEEE NVISION 3D Platform
-An immersive 3D web experience built using modern web graphics technologies, featuring interactive environments, smooth animations, and optimized rendering performance.
-
-**Tech:** React • Three.js • React Three Fiber • Tailwind CSS
+### 📚 ClassPulse | *Analytical Progressive Web Application*
+> A high-utility offline-capable PWA built to streamline academic lifecycle operations.
+- Developed persistent data synchronize mechanisms via service workers and live database state tracking.
+- Designed comprehensive analytical dashboards featuring interactive statistical modeling.
+- **Tech Stack:** React, Vite, Firebase, Chart.js
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya7609&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya7609&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya7609&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Kartikeya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya7609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🧑‍💻 LeetCode: https://leetcode.com/YOUR_USERNAME
-- 📧 Email: kartikeyakk2007@gmail.com
-
----
-
 <p align="center">
-  <b>Building technology that creates real-world impact 🚀</b>
+  <b>Building robust technology to solve real-world problems 🚀</b>
 </p>
